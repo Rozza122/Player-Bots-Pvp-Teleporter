@@ -1,4 +1,4 @@
---Spawner script for pvp locations by Rozza121 for use with https://github.com/liyunfan1223/azerothcore-wotlk
+--Spawner script for pvp locations by Rozza122 for use with https://github.com/liyunfan1223/azerothcore-wotlk
 --09-07-2025 v0.1 (very early days, not finished yet...)
 
 local trackedPlayers = {}
